@@ -12,4 +12,3 @@ def loop_message_n_times(message,integer)
   loop message
 end
 end
-end
