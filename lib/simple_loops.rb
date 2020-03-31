@@ -9,8 +9,10 @@ end
 
 def loop_message_n_times(message,number)
   count = number
+  str = message
   i = 0 
-  while i <= count do
+  while i <= count.length do
+      puts str
       i += 1
   end
   
