@@ -8,7 +8,7 @@ def loop_message_five_times(message)
 end
 
 def loop_message_n_times(message,number)
-  if message == integer
-  loop message
+  if message == number
+  puts message
 end
 end
