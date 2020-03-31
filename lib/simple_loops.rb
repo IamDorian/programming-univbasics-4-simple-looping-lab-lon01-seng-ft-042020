@@ -10,7 +10,7 @@ end
 def loop_message_n_times(message,number)
   count = number
   i = 0 
-  while count >= i do
+  while i <= count do
       i += 1
   end
   
